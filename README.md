@@ -7,7 +7,6 @@ A simple python program to check the validity of a credit card. Three issuers av
 
 Demonstration Below:
 <br />
-<br />
 
 ![demonstration](https://user-images.githubusercontent.com/70728989/160683450-33e84dcd-9306-49c0-a380-f343e96d2e7b.gif)
 
