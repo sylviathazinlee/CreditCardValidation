@@ -5,3 +5,5 @@ A simple python program to check the validity of a credit card. Three issuers av
 3. Checks the first or first two card number in correspondence to card type
 4. Luhn Algorithm is at work determine if the card is completely valid so it can be activated.
 
+! [me] (https://gyazo.com/c2f0659b3cf1e465e39c4edca8a0b8ec)
+
